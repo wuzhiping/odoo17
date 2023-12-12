@@ -1,3 +1,5 @@
+# odoo  shell --config=/etc/odoo/odoo.conf --db_host db -r odoo -w odoo17@2023 -d ABC
+
 # https://minhng.info/docker/docker-compose-odoo-17.html
 
 # Installing Odoo 17.0 with one command (Supports multiple Odoo instances on one server).
